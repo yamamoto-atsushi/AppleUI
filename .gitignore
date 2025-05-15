@@ -1,0 +1,14 @@
+*.pyc
+__pycache__/
+venv/
+*.env
+*.log
+*.tmp
+*.bak
+*.swp
+*.DS_Store
+*.db
+*.sqlite
+dist/
+build/
+*.egg-info/
