@@ -17,7 +17,6 @@ setuptools.setup(
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",  # 例: MIT License
         "Operating System :: OS Independent",
-        "Framework :: PyQt :: 6",  # PyQt6 を使用することを示す
     ],
     python_requires=">=3.7",  # 必要な Python のバージョン
     install_requires=[
