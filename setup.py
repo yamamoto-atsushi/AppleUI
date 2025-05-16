@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="apple-style-ui",  # パッケージ名（pip でインストールする際に使用）
-    version="0.1.0",  # バージョン
+    version="0.1.1",  # バージョン
     author="Yamamoto Atsushi",  # あなたの名前
     author_email="nasebanaru1975@gmail.com",  # あなたのメールアドレス
     description="A library of Apple-style UI components for PyQt6.",  # 簡単な説明
